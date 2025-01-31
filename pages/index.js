@@ -28,15 +28,22 @@ function LoveLetter() {
           borderRadius: "10px",
         }}
       >
-        Querido(a),
+        Querida Daniela!,
         <br />
         <br />
-        Aqui está um pequeno espaço para expressar tudo o que sinto por você.
-        Palavras podem não ser suficientes, mas espero que essa cartinha traga
-        um sorriso ao seu rosto.
+        Eu penso em você o dia todo. Não há uma hora sequer desde o momento em
+        que acordo que deixo de lembrar de você meu amor. E este site em forma
+        de cartinha é mais uma forma simples de te dizer isso, de te contar o
+        quão importante você é para mim. <br /> Meus planos são contigo <br />{" "}
+        Meu futuro é ao seu lado <br /> Minha casa também será a sua <br /> Meus
+        filhos serão teus <br /> Meu carinho é teu <br /> Meu desejo incessante
+        é por você <br /> Minha felicidade é te ver sorrindo. <br /> ❤️ Te amo
+        Daniela ❤️ <br /> Como exercício de uma aula eu precisava impactar
+        alguém através de uma mensagem online. E adivinha em quem eu pensei? Se
+        você chutou a Daniela, amor da minha vida, você acertou Dani!
         <br />
         <br />
-        Com amor, <br /> Seu nome ❤️
+        Se você gostou, me conta no whatsapp.
       </p>
     </div>
   );
