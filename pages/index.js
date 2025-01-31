@@ -10,12 +10,24 @@ function LoveLetter() {
         justifyContent: "center",
         textAlign: "center",
         height: "100vh",
-        backgroundColor: "#ffe4e1",
+        backgroundImage:
+          "url('https://ogimg.infoglobo.com.br/in/21956078-e9a-0cf/FT1500A/550/xYourNameDois.jpg.pagespeed.ic.ADfQbXnoGp.jpg')",
+        backgroundSize: "cover",
+        backgroundPosition: "center",
         fontFamily: "Arial, sans-serif",
       }}
     >
       <h1 style={{ color: "#ff1493" }}>Minha Cartinha de Amor</h1>
-      <p style={{ maxWidth: "600px", fontSize: "18px", color: "#333" }}>
+      <p
+        style={{
+          maxWidth: "600px",
+          fontSize: "18px",
+          color: "#333",
+          backgroundColor: "rgba(255, 255, 255, 0.7)",
+          padding: "10px",
+          borderRadius: "10px",
+        }}
+      >
         Querido(a),
         <br />
         <br />
@@ -26,13 +38,6 @@ function LoveLetter() {
         <br />
         Com amor, <br /> Seu nome ❤️
       </p>
-      <Image
-        src="https://source.unsplash.com/400x300/?love,romance"
-        alt="Imagem romântica"
-        width={400}
-        height={300}
-        style={{ borderRadius: "10px", marginTop: "20px" }}
-      />
     </div>
   );
 }
