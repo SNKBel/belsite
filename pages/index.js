@@ -17,7 +17,7 @@ function LoveLetter() {
         fontFamily: "Arial, sans-serif",
       }}
     >
-      <h1 style={{ color: "#ff1493" }}>Minha Cartinha de Amor</h1>
+      <h1 style={{ color: "#ff1493" }}>De Bruno para Daniela!</h1>
       <p
         style={{
           maxWidth: "600px",
@@ -28,19 +28,30 @@ function LoveLetter() {
           borderRadius: "10px",
         }}
       >
-        Querida Daniela!,
+        ❤️Querida Daniela!❤️
         <br />
         <br />
         Eu penso em você o dia todo. Não há uma hora sequer desde o momento em
         que acordo que deixo de lembrar de você meu amor. E este site em forma
         de cartinha é mais uma forma simples de te dizer isso, de te contar o
-        quão importante você é para mim. <br /> Meus planos são contigo <br />{" "}
-        Meu futuro é ao seu lado <br /> Minha casa também será a sua <br /> Meus
-        filhos serão teus <br /> Meu carinho é teu <br /> Meu desejo incessante
-        é por você <br /> Minha felicidade é te ver sorrindo. <br /> ❤️ Te amo
-        Daniela ❤️ <br /> Como exercício de uma aula eu precisava impactar
-        alguém através de uma mensagem online. E adivinha em quem eu pensei? Se
-        você chutou a Daniela, amor da minha vida, você acertou Dani!
+        quão importante você é para mim.
+        <br />
+        <br />
+        Meus planos são contigo. <br />
+        Meu futuro é ao seu lado. <br />
+        Minha casa também será a sua. <br />
+        Meus filhos serão teus. <br />
+        Meu carinho é teu. <br />
+        Meu desejo incessante é por você. <br />
+        Minha felicidade é te ver sorrindo.
+        <br />
+        <br />
+        ❤️ Te amo Daniela ❤️
+        <br />
+        <br />
+        Como exercício de uma aula eu precisava impactar alguém através de uma
+        mensagem online. E adivinha em quem eu pensei? Se você chutou a Daniela,
+        amor da minha vida, você acertou Dani!
         <br />
         <br />
         Se você gostou, me conta no whatsapp.
